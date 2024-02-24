@@ -1,4 +1,4 @@
 # demo_Repo
 This is my first git repository
 <br>
-Author-Chandra Prabha
+Author-Chandra Prabha Singh
